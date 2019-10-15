@@ -32,9 +32,18 @@
       "eslint:recommended"
     ],
     "rules": {
-      "quotes": ["error", "double"],
-      "indent": ["error", "tab"],
-      "semi": ["error", "always"]
+      "quotes": [
+        "error",
+        "double"
+      ],
+      "indent": [
+        "error",
+        "tab"
+      ],
+      "semi": [
+        "error",
+        "always"
+      ]
     },
     "parserOptions": {
       "parser": "babel-eslint"
